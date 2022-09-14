@@ -1,0 +1,27 @@
+Java Programmer
+โปรแกรมเมอร์ภาษาจาวา
+
+ไฮไลท์เด่นของงาน
+ทำงาน 5 วัน/สัปดาห์ วันหยุดนักขัตฤกษ์
+ได้ร่วมงานกับองค์กรชั้นนำระดับของประเทศ
+มีจัด Training ให้ทุกเดือน
+
+Responsibilities:
+หน้าที่รับผิดชอบ
+
+Designing and implementing Java-based applications
+การออกแบบและการใช้งานแอปพลิเคชันบน Java เป็นหลัก
+Analyzing user requirements to inform application design
+วิเคราะห์ความต้องการของผู้ใช้เพื่อความต้องการออกแบบแอพพลิเคชั่น
+Contribute to work with key partners as required
+สามารถทำงานกับเพื่อนร่วมทีมได้
+
+Requirements:
+คุณสมบัติที่ต้องการ
+
+At least Bachelor’s Degree in Computer Science, Computer Engineering, Software Engineer, IT or related fields.
+ต้องการวุฒิขั้นต่ำ วุฒิปริญญาตรี ในสาขาวิทยาการคอมพิวเตอร์, วิศวกรรมคอมพิวเตอร์, วิศวกรซอฟต์แวร์, ไอทีหรือสาขาที่เกี่ยวข้อง
+At least 1 year's working experience in Java platform programming.
+มีประสบการณ์การทำงานอย่างน้อย 1 ปีในการเขียนโปรแกรมแพลตฟอร์ม Java
+Proficient in Java and experience in developing web applications using web framework (JSF,  Spring MVC, Spring Boots)
+มีความเชี่ยวชาญใน Java และประสบการณ์ในการพัฒนาเว็บแอปพลิเคชันโดยใช้งานเว็บ (JSF, Spring MVC, Spring Boots)
